@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYulwludncP701SMTvjqpVxIdJR+liEgHi9u3hqK84vj39up23emsxzbdU9mOECgEtvSzK5BAYZyUY1NiYtDdA==",
+  "success": true,
+  "projectFilePath": "D:\\BackDoor\\BackDoor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gniki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gniki\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
